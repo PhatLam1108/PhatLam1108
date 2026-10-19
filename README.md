@@ -43,13 +43,6 @@ Building fast, secure web products, and using AI where it actually helps.
 
 👉 More projects and write-ups at **[phatdev.net](https://phatdev.net)**
 
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhatLam1108&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhatLam1108&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
 ---
 
 <div align="center">
