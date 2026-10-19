@@ -73,12 +73,12 @@ Currently leading engineering, marketing and IT at **Tân Doanh**, a PC hardware
 
 | Project | Summary | Stack |
 |---|---|---|
-| [**ERP Platform**](https://phatdev.net/en/projects) | Inventory, sales, procurement, warranty and accounting system built on an immutable, append-only ledger with role-based access control | Full-stack |
+| [**ERP Platform**](https://phatdev.net/en/projects/erp-tan-doanh) | Inventory, sales, procurement, warranty and accounting system built on an immutable, append-only ledger with role-based access control | Full-stack |
 | [**SL Migrations**](https://phatdev.net/en/projects/sl-migrations) | WordPress backup and migration plugin with encrypted archives, scheduled jobs, multi-destination storage (FTP, SFTP, NAS) and a standalone installer | PHP, MySQL, AES |
 | [**E-commerce Re-platforming**](https://phatdev.net/en/projects/tandoanh-theme) | Production WooCommerce store rebuilt on a custom block theme, tuned for Core Web Vitals, with an integrated PC configurator and real-time inventory sync | WordPress, Redis, Nginx |
 | [**Gemstone Store Rebuild**](https://phatdev.net/en/projects/iga) | Custom theme and plugin for a jewellery retailer, with guided product discovery and a preserved URL structure to protect search rankings | WooCommerce, PHP |
-| [**Media Studio**](https://phatdev.net/en/projects) | AI application that turns a single product URL into product imagery, localised banners and narrated review videos | Agentic AI, Claude API, FFmpeg |
-| [**PC Builder**](https://phatdev.net/en/projects) | Product configurator with compatibility validation, power-supply sizing, financing calculator and quotation export | PHP, WooCommerce |
+| [**Media Studio**](https://phatdev.net/en/projects/media-studio) | AI application that turns a single product URL into product imagery, localised banners and narrated review videos | GPT Image, Gemini, FFmpeg |
+| [**PC Builder**](https://phatdev.net/en/projects/tandoanh-buildpc) | Product configurator with compatibility validation, power-supply sizing, financing calculator and quotation export | PHP, WooCommerce |
 
 Case studies and technical articles are available at **[phatdev.net](https://phatdev.net)**.
 
