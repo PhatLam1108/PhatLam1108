@@ -74,7 +74,11 @@ Currently leading engineering, marketing and IT at **Tân Doanh**, a PC hardware
 | Project | Summary | Stack |
 |---|---|---|
 | [**PixGamma**](https://phatdev.net/en/projects/pixgamma) | macOS AI photo upscaler running fully on the Apple Silicon GPU: its own fine-tuned photo model, keycap text protection, diffusion-based Recover, CLI and local HTTP API | Swift, Core ML, PyTorch |
+| [**CreditMate**](https://phatdev.net/en/projects/creditmate) | iPhone and iPad app for credit cards, loans and pay-later wallets: shared limits counted once, due reminders, encrypted on-device backups and draft-first statement import | SwiftUI, SwiftData |
+| **MoneyFlow** | Family finance app for iPhone and iPad with one shared ledger for income, budgets, savings, gold and debts, synced across members through a self-hosted server | SwiftUI, SwiftData, Node.js |
+| **AIUsage** | macOS dashboard and desktop widget tracking quota, reset timers and spend for Claude, ChatGPT/Codex, Antigravity and the Gemini API, with stale-data warnings | Swift, SwiftUI, WidgetKit |
 | [**ERP Platform**](https://phatdev.net/en/projects/erp-tan-doanh) | Inventory, sales, procurement, warranty and accounting system built on an immutable, append-only ledger with role-based access control | Full-stack |
+| [**IGA Social**](https://phatdev.net/en/projects/iga-social) | Internal marketing studio for a gemstone retailer: a week of Facebook posts planned in one click, rule-bound AI captions, vertical videos cut from raw clips, Fanpage and YouTube publishing | Next.js, Docker, FFmpeg |
 | [**SL Migrations**](https://phatdev.net/en/projects/sl-migrations) | WordPress backup and migration plugin with encrypted archives, scheduled jobs, multi-destination storage (FTP, SFTP, NAS) and a standalone installer | PHP, MySQL, AES |
 | [**E-commerce Re-platforming**](https://phatdev.net/en/projects/tandoanh-theme) | Production WooCommerce store rebuilt on a custom block theme, tuned for Core Web Vitals, with an integrated PC configurator and real-time inventory sync | WordPress, Redis, Nginx |
 | [**Gemstone Store Rebuild**](https://phatdev.net/en/projects/iga) | Custom theme and plugin for a jewellery retailer, with guided product discovery and a preserved URL structure to protect search rankings | WooCommerce, PHP |
